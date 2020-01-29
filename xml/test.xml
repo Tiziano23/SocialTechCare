@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <device type="sensor">
+        <id>0001</id>
+        <name>Temperature Sensor</name>
+    </device>
+    <device type="actuator">
+        <id>0002</id>
+        <name>Speaker</name>
+    </device>
+</configuration>
